@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Chrome_Trex_Offline_Game/blob/master/Files/dino.gif" width="320"  /> <br><br>
+<img src="https://github.com/Godson-Thomas/Chrome_Trex_Offline_Game/blob/master/Files/dino.gif" width="330"  /> <br><br>
 # Google  T-Rex Offline game
 All of us will be familiar with the offline DINO game which the chrome provides for the users to play when there is no internet connection.We will be using the given python codes along with the necessary modules for playing ( without any human actions ) google's T-Rex game.
 
