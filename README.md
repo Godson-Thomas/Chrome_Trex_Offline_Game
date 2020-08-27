@@ -39,7 +39,7 @@ pip install Pillow
 
 <br><br>
 * ## Code 
-  - Full code.   [click here]()<br><br>
+  - Full code.   [click here](https://github.com/Godson-Thomas/Chrome_Trex_Offline_Game/blob/master/Google_TREX.ipynb)<br><br>
 4. Open your chrome (note : Without internet connectivity)<br>
 
 5. Import the necessary libraries. 
